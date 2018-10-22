@@ -1,4 +1,0 @@
-INFO 2018/06/18 17:56:00 UserUpdateHandler.go:127: pq: syntax error at or near ")"
-INFO 2018/06/18 17:58:34 UserUpdateHandler.go:127: sql: no rows in result set
-INFO 2018/06/18 18:10:12 AuthHandler.go:17: Error crypto.Decrypt
-INFO 2018/06/18 18:10:54 UserAddHandler.go:46: Failed search of (&(objectClass=user)(sAMAccountName=elio.goeva))
