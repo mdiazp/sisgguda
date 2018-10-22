@@ -1,0 +1,5 @@
+psql -U sisgguda -d sisgguda -c "select * from users;"
+
+psql -U sisgguda -d sisgguda -c "select * from groups;"
+
+psql -U sisgguda -f data/setup.sql -d sisgguda
